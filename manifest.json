@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "blue-fat-fish-meme-pack",
+  "name": "蓝色大肥鱼表情包",
+  "version": "1.0.0",
+  "description": "自建镜像合集：收录 133 张蓝色大肥鱼（DeepSeek 娘）表情包，按 16 个聊天语义分类整理，适合日常回复、情绪表达、卖萌与玩梗互动。",
+  "author": "整理：lspj；素材版权归原作者（梗鲸 aigengtu.com 收录分享）",
+  "homepage": "https://github.com/lspj/yu-shi",
+  "license": "原素材许可未明确指定；版权归各权利人，仅作分享整理，请勿商用",
+  "source": {
+    "type": "github",
+    "repo": "lspj/yu-shi",
+    "ref": "main",
+    "subpath": "."
+  },
+  "tags": [
+    "blue-fat-fish",
+    "dafeiyu",
+    "deepseek",
+    "meme-pack",
+    "mirror"
+  ],
+  "icon": "previews/cover.jpg",
+  "previews": [
+    "previews/cover.jpg"
+  ],
+  "compat": {
+    "min_plugin_version": "4.0.0"
+  },
+  "categories": {
+    "affection": {
+      "description": "用于比心、亲亲、送礼、安慰、表达喜欢或亲近互动。"
+    },
+    "angry": {
+      "description": "用于生气、责备、不耐烦或夸张玩笑式的威胁；不用于真实冲突。"
+    },
+    "confused": {
+      "description": "用于看不懂、疑问、发呆、404 找不到或不知道怎么接话。"
+    },
+    "entertainment": {
+      "description": "用于唱歌、游戏、舞蹈、应援、节庆、整活或玩梗表演。"
+    },
+    "food": {
+      "description": "用于吃饭、干饭、想吃零食、要饭、看别人吃或拿食物开玩笑。"
+    },
+    "greeting": {
+      "description": "用于到达、冒泡、打招呼、挥手、登场或发出通知。"
+    },
+    "happy": {
+      "description": "用于开心、庆祝、夸奖、期待好消息或眼睛发亮的积极回应。"
+    },
+    "money": {
+      "description": "用于 token、充值、付款、要钱、炫富或与钱相关的玩笑。"
+    },
+    "portrait": {
+      "description": "用于角色立绘、全身像或没有明显情绪、只作形象展示的回应。"
+    },
+    "reply": {
+      "description": "用于直接应答、拒绝、同意、收到、要求安静或简短回应。"
+    },
+    "sad": {
+      "description": "用于委屈、难过、被打击、叹气或夸张地表示自己倒下了。"
+    },
+    "shy": {
+      "description": "用于害羞、脸红、不好意思或被夸时的回应。"
+    },
+    "sleep": {
+      "description": "用于困倦、晚安、睡觉、准备休息或想被哄睡。"
+    },
+    "surprised": {
+      "description": "用于惊吓、震惊、紧张、冒汗或突然发生意外。"
+    },
+    "teasing": {
+      "description": "用于吐槽、自嘲、嫌弃、嘴硬、恶作剧或看穿对方的反讽。"
+    },
+    "work": {
+      "description": "用于工作、打字、跑数据、检查、加班或带薪摸鱼。"
+    }
+  }
+}
